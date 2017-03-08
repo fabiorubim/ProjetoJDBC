@@ -1,9 +1,9 @@
 /*
- Javabeans é uma classe básica em Java, ela deve possui no mínimo um construtor SEM PARÂMETROS, getters and setters
- e EXTENER a classe Serializable, esta último não é sempre feito.
+ Javabeans é uma classe básica em Java, ela deve possuir no mínimo um construtor SEM PARÂMETROS, getters and setters
+ e EXTENDER a classe Serializable, esta último não é sempre feito.
  
  ************Diferença entre um BEAN e um POJO**************
- *O PJO é um objeto simples, que PODE OU NÂO possuir getters e setters e não possui um padrão para nomear seus métodos 
+ *O POJO é um objeto simples, que PODE OU NÂO possuir getters e setters e não possui um padrão para nomear seus métodos 
  *getters e setters.
  *Um BEAND É UM POJO, só que ele possui REGRAS, existe uma especificação para DEFINIR UM BEAN.
  *Um bean é definido por várias regras, mas as principais são:
